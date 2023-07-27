@@ -48,3 +48,5 @@ python inference.py
 ```
 
 Next modify inference script prompt and generation parameters.
+
+docker-compose up
